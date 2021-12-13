@@ -57,7 +57,7 @@ List of dependencies to run this application.
 <ol>
   <li> Download or clone this repository. </li>
   <li> Install all the dependency libraries. </li>
-  <li> Run Hand written detection.py file</li>
+  <li> Run digit.py file</li>
       <p> This opens a canvas to draw/write.</p>
       
   <li>Draw digits on to canvas with mouse</li>
