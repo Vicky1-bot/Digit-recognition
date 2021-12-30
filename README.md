@@ -57,7 +57,7 @@ List of dependencies to run this application.
 <ol>
   <li> Download or clone this repository . </li>
         
-        https://github.com/Vicky1-bot/Digit-recognition.git.
+        !git clone https://github.com/Vicky1-bot/Digit-recognition.git.
       
   <li> Install all the dependency libraries. </li>
   <li> Run digit.py file</li>
